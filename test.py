@@ -1,3 +1,3 @@
 def disp():
-    print('pooonam')
+    print('Pooonam')
 disp()
